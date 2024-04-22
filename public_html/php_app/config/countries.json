@@ -1,0 +1,96 @@
+{
+        "NG": {
+          "name": "Nigeria",
+          "states": [
+            "Abia",
+            "Adamawa",
+            "Akwa Ibom",
+            "Anambra",
+            "Bauchi",
+            "Bayelsa",
+            "Benue",
+            "Borno",
+            "Cross River",
+            "Delta",
+            "Ebonyi",
+            "Edo",
+            "Ekiti",
+            "Enugu",
+            "Gombe",
+            "Imo",
+            "Jigawa",
+            "Kaduna",
+            "Kano",
+            "Katsina",
+            "Kebbi",
+            "Kogi",
+            "Kwara",
+            "Lagos",
+            "Nasarawa",
+            "Niger",
+            "Ogun",
+            "Ondo",
+            "Osun",
+            "Oyo",
+            "Plateau",
+            "Rivers",
+            "Sokoto",
+            "Taraba",
+            "Yobe",
+            "Zamfara"
+          ]
+        },
+        "GH": {
+          "name": "Ghana",
+          "states": [
+            "Ashanti",
+            "Brong-Ahafo",
+            "Central",
+            "Eastern",
+            "Greater Accra",
+            "Northern",
+            "Upper East",
+            "Upper West",
+            "Volta",
+            "Western"
+          ]
+        },
+        "TG": {
+          "name": "Togo",
+          "states": [
+            "Centrale",
+            "Kara",
+            "Maritime",
+            "Plateaux",
+            "Savanes"
+          ]
+        },
+        "KN": {
+          "name": "Kenya",
+          "states": [
+            "Central",
+            "Coast",
+            "Eastern",
+            "Nairobi",
+            "North Eastern",
+            "Nyanza",
+            "Rift Valley",
+            "Western"
+          ]
+        },
+        "RSA": {
+          "name": "South Africa",
+          "states": [
+            "Eastern Cape",
+            "Free State",
+            "Gauteng",
+            "KwaZulu-Natal",
+            "Limpopo",
+            "Mpumalanga",
+            "North West",
+            "Northern Cape",
+            "Western Cape"
+          ]
+        }
+      }
+      
